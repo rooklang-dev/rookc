@@ -1,0 +1,7 @@
+
+[submodule "rookc-rust"]
+	path = rookc-rust
+	url = https://github.com/rooklang-dev/rookc-rust
+[submodule "rookc-java"]
+	path = rookc-java
+	url = https://github.com/rooklang-dev/rookc-java
