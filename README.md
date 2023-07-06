@@ -1,2 +1,2 @@
 # rookc
-This repo contains the rook compiler written in various languages.
+This repository contains the rook compiler written in various languages.
